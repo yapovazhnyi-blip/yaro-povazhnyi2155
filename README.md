@@ -18,11 +18,11 @@ Schema cleanup, dataset merging, KPI calculations, and temporary analytical tabl
 ➡️ [[SQL](https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/blob/main/SQL/end-to-end-sales-analytics-bigquery/docs/README.md)]
 
 ### 🚀 Drone Usage Analytics — Tableau Story
-Interactive data storytelling dashboard. [[Visualization](https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/tree/main/Visualization/Tableau/drone-usage-tableau-story)]
+Interactive data storytelling dashboard. ➡️ [[Visualization](https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/tree/main/Visualization/Tableau/drone-usage-tableau-story)]
 ➡️ https://public.tableau.com/app/profile/yaro.povazhnyi2155/viz/DroneusageinwarbetweenRussiaandUkraine/Story1
 
 ### 📈 Tableau Visualization Case Study
-Interactive dashboard demonstrating structured visual insights.
+Interactive dashboard demonstrating structured visual insights. ➡️ [[Visualization](https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/tree/main/Visualization/Tableau/tableau-visualization-case)]
 ➡️ https://public.tableau.com/app/profile/yaro.povazhnyi2155/viz/TestProject_17678821298320/Story1
 
 ### 📂 CSV Data Exploration Workflow
