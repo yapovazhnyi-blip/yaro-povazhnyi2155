@@ -27,7 +27,7 @@ Interactive dashboard demonstrating structured visual insights.
 
 ### 📂 CSV Data Exploration Workflow
 Google Sheets + CSV analytics pipeline.
-➡️ [CSV]
+➡️ [[CSV](https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/blob/main/SpreadSheets/GoogleTables/csv-data-exploration/docs/README.md)]
 
 ---
 
