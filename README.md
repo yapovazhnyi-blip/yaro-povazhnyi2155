@@ -15,7 +15,7 @@ My work combines:
 
 ### 📊 End-to-End Sales Analytics (BigQuery SQL)
 Schema cleanup, dataset merging, KPI calculations, and temporary analytical tables.
-➡️ [SQL(https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/blob/main/SQL/end-to-end-sales-analytics-bigquery/docs/README.md)]
+➡️ [[SQL](https://github.com/yapovazhnyi-blip/yaro-povazhnyi2155/blob/main/SQL/end-to-end-sales-analytics-bigquery/docs/README.md)]
 
 ### 🚀 Drone Usage Analytics — Tableau Story
 Interactive data storytelling dashboard.
