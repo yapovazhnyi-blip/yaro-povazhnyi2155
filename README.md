@@ -15,7 +15,7 @@ My work combines:
 
 ### 📊 End-to-End Sales Analytics (BigQuery SQL)
 Schema cleanup, dataset merging, KPI calculations, and temporary analytical tables.
-➡️ [Sales Analytics]
+➡️ [SQL]
 
 ### 🚀 Drone Usage Analytics — Tableau Story
 Interactive data storytelling dashboard.
