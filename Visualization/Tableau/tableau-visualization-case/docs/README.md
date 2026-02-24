@@ -7,4 +7,5 @@ https://public.tableau.com/app/profile/yaro.povazhnyi2155/viz/TestProject_176788
 Interactive Tableau dashboard demonstrating structured insights.
 
 ## Screenshots
-![Dashboard](Visualization/Tableau/tableau-visualization-case/assets/Story 1.png
+<img width="1436" height="874" alt="Story 1" src="https://github.com/user-attachments/assets/1022651b-4afc-4c19-91b1-4320b611dade" />
+
