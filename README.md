@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yaro
-### Data Analyst | SQL • BigQuery • Tableau • Python (Learning)
+### Data Science/Machine Learning | SQL • BigQuery • Tableau • Python
 
 I focus on building structured analytics workflows that transform raw datasets into business-ready insights.
 
